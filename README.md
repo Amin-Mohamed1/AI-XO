@@ -1,6 +1,5 @@
 # Minimax Algorithm for Tic Tac Toe
 
-![image](https://github.com/user-attachments/assets/42802bc4-d0c5-42ec-a0ec-0c0273b59cd5)
 
 The Minimax algorithm is a decision-making algorithm used in two-player turn-based games such as Tic Tac Toe. It is designed to find the optimal move for a player, assuming that the opponent is also playing optimally. The algorithm works by recursively exploring all possible moves and their outcomes to determine the best possible action.
 
